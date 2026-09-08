@@ -9,3 +9,5 @@
 
 # THIS IS WHERE YOU CODE
 print("I'm going to say hello")
+name = input("What is your name? ")
+print("Hello " + name)
